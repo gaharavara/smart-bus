@@ -1,0 +1,27 @@
+{
+  "name": "smart-bus",
+  "version": "1.0.0",
+  "description": "Using facial recognition to make travelling in buses frictionless.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaharavara/smart-bus.git"
+  },
+  "keywords": [
+    "smart-bus",
+    "facial-recognition",
+    "smart-payments"
+  ],
+  "author": "Team Infinity Hacks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaharavara/smart-bus/issues"
+  },
+  "homepage": "https://github.com/gaharavara/smart-bus#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
